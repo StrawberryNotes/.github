@@ -2,7 +2,7 @@
 
 **Handwrite freely. Connect every idea. Learn faster.**
 
-We're building a home for everything you learn. Strawberry Notes brings handwritten notes, flashcards, and tasks together in one app for iPad and iPhone, with AI-powered study tools that work with your notes.
+Everything you need to succeed, in one simple app. Strawberry Notes brings handwritten notes, flashcards, and tasks together on iPad and iPhone, with AI-powered study tools that work with your notes. Docs and a calendar are coming soon.
 
 From the first scribble in a lecture to the last review before an exam, keep your ideas and the tools to understand them in one place.
 
